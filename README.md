@@ -2,8 +2,9 @@
 <h3>EX. NO</h3>
 <h3>DATE</h3>
 
-ENTER YOUR NAME: Dhanashree M
-ENTER YOUR REGISTER NO: 212221230018
+### ENTER YOUR NAME: Dhanashree M
+
+### ENTER YOUR REGISTER NO: 212221230018
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
